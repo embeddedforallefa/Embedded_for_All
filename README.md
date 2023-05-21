@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @embeddedforallefa
-- 👀 I'm working on making embedded systems knowledge accessible and available to everyone. Topics I am interested in are Embedded Systems, Embedded Linux and Internet of Things
+- 👀 I'm working on making embedded systems knowledge accessible and available to everyone. Topics I am interested in are Embedded Systems, Embedded Linux, Embedded AI and Internet of Things
 - 🌱 I’m currently preparing learning material on above topics
 - 💞️ I’m looking to collaborate on any of the projects you are intersted in my repositories
 
